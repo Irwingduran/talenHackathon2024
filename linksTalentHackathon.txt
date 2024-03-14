@@ -9,5 +9,7 @@ Track salud digna:
 https://app.genius-arena.com/track_info/71/Salud-Digna---Servicio-para-extracci%C3%B3n-y-guardado-de-im%C3%A1genes-y-videos-de-resultados--de-estudios-de-ultrasonido
 Track SISA:
 https://app.genius-arena.com/track_info/69/SISA---Detecci%C3%B3n-de-anomal%C3%ADas-por-an%C3%A1lisis-de-trafico-en-la-navegaci%C3%B3n
+Track google cloud: 
+https://hackathon.genius-arena.com/hackathon/desarrollando-para-un-futuro-sustentable-google-cloud/
 Todos los tracks:
 https://app.genius-arena.com/challenge/15/talent-hackathon-2024
