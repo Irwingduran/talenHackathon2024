@@ -170,4 +170,4 @@ df['Service'] = df['Service'].replace('http', 4)
 # Cambiamos el tipo de dato de todas las columnas a float64
 df = df.astype('float64')
 
-df.to_csv('SISA Trafic/TraficoSISA.csv', index=False, header=True)
+df.to_csv('SISA Trafic/SISA_trafic.csv', index=False, header=True)
